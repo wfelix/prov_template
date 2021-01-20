@@ -1,0 +1,122 @@
+{
+  "name": "ommi_web",
+  "version": "0.1.0",
+  "private": true,
+  "proxy": "https://esitef-homologacao.softwareexpress.com.br",
+  "sitef": {
+    "merchantId": "conecto",
+    "merchantKey": "47A0E298E76E771630E8E5E368E23813CBF4BA7766F962FF"
+  },
+  "color": {
+    "background": "#f9f9f9",
+    "primary": "#ff9000",
+    "primary_light": "#ff9000",
+    "navbar": {
+      "bg": "#ff9000",
+      "color": "#ffffff",
+      "hover": "#793605"
+    }
+  },
+  "layout": {
+    "mobile": "768px",
+    "desktop": "1280px",
+    "desktop_wide": "1600px",
+    "more_product": 30
+  },
+  "skeletonTheme": {
+    "color": "#ffdfb5",
+    "highlightColor": "#fdc780"
+  },
+  "dependencies": {
+    "@repay/react-credit-card": "^1.0.1",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "@types/google-map-react": "^2.1.0",
+    "@types/jest": "^24.0.0",
+    "@types/node": "^12.0.0",
+    "@types/react": "^16.9.0",
+    "@types/react-dom": "^16.9.0",
+    "@types/react-facebook-login": "^4.1.2",
+    "@types/react-input-mask": "^2.0.5",
+    "@types/react-map-gl": "^5.2.8",
+    "@unform/core": "^2.1.3",
+    "@unform/web": "^2.1.3",
+    "axios": "^0.19.2",
+    "conecto-react-ui-kit": "1.0.3",
+    "firebase": "^7.24.0",
+    "google-map-react": "^2.1.9",
+    "http-proxy-middleware": "^1.0.6",
+    "i18next": "^19.7.0",
+    "moment": "^2.29.1",
+    "payment-icons": "^1.2.1",
+    "polished": "^3.6.5",
+    "react": "^16.13.1",
+    "react-countdown-circle-timer": "^2.3.7",
+    "react-dimensions": "^1.3.1",
+    "react-dom": "^16.13.1",
+    "react-facebook-login": "^4.1.1",
+    "react-google-login": "^5.1.22",
+    "react-i18next": "^11.7.0",
+    "react-icons": "^3.10.0",
+    "react-infinite-scroll-component": "^5.1.0",
+    "react-input-mask": "^2.0.4",
+    "react-input-range": "^1.3.0",
+    "react-loading-skeleton": "^2.1.1",
+    "react-map-gl": "^5.2.9",
+    "react-redux": "^7.2.1",
+    "react-responsive-carousel": "^3.2.9",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.1",
+    "react-spinners": "^0.9.0",
+    "react-toastify": "^6.0.9",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-persist": "^6.0.0",
+    "redux-saga": "^1.1.3",
+    "styled-components": "^5.1.1",
+    "types": "^0.0.1",
+    "typesafe-actions": "^5.1.0",
+    "typescript": "~3.7.2",
+    "unform": "^1.2.3",
+    "uuidv4": "^6.2.0",
+    "yup": "^0.29.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/react-redux": "^7.1.9",
+    "@types/react-router-dom": "^5.1.5",
+    "@types/styled-components": "^5.1.1",
+    "@types/yup": "^0.29.3",
+    "@typescript-eslint/eslint-plugin": "^3.7.1",
+    "@typescript-eslint/parser": "^3.7.1",
+    "eslint": "6.8.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-import-resolver-typescript": "^2.0.0",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-react": "^7.19.0",
+    "eslint-plugin-react-hooks": "^2.5.0",
+    "prettier": "^2.0.5"
+  }
+}

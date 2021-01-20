@@ -1,0 +1,19 @@
+{
+  "main": {
+    "navbar": {
+      "contact": "0800 123 456 7890",
+      "contact_mail": "cliente@superconecto.com.br",
+      "store_locator": "Localizador de Lojas",
+      "blog": "Blog",
+      "warranty": "Garantia",
+      "payment": "Pagamento",
+      "delivery": "Delivery",
+      "enter_and_register": "Entre ou Cadastre-se"
+    },
+    "search": {
+      "input": "O que você procura hoje?",
+      "text_store_open": "Lojas físicas abertas todos os dias até as 22:00",
+      "cart_amout": "Meu Carrinho"
+    }
+  }
+}

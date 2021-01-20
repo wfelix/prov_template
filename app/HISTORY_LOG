@@ -1,0 +1,685 @@
+commit f74f9a9fe3f8d051f4b9445126da674daa49131e
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Tue Oct 6 21:06:09 2020 -0300
+
+    API: Servico de SMS na AWS
+
+commit b86c3051f8511fa499d4b3a68aa2f7b40578678b
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Tue Oct 6 09:18:24 2020 -0300
+
+    API: rollback
+
+commit a9f62643c9ed24debf3ce58e2cde2283582c9e29
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Tue Oct 6 07:32:12 2020 -0300
+
+    web: Ajustando o layout...
+
+commit a4e20cebc475c18ee494fac48b30b9c37cceb7fb
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Mon Oct 5 23:41:58 2020 -0300
+
+    web: Ajustando o layout...
+
+commit f83646f71a40325e12565734b12ce2c89e4fdc13
+Merge: 5a47ffa ab50df5
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Mon Oct 5 21:11:14 2020 -0300
+
+    Merge branch 'master' of https://github.com/wfelix/ConectoVarejo
+
+commit 5a47ffa33015d98dbffaa9813aba8fb449bf98c8
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Mon Oct 5 21:11:03 2020 -0300
+
+    web: temp
+
+commit ab50df526b7a7d53d67aa0d2c614c6e44dcfa509
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Mon Oct 5 18:27:10 2020 -0300
+
+    Adicao do servico de lista de lojas, acertos na tela de pedidos
+
+commit 3ca47ae4f24617455e6d4f484a70cd6ca2d96fe5
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Fri Oct 2 20:06:52 2020 -0300
+
+    Novos serviços de pedido
+
+commit 05abeaa09840ee11235eeeffae0fa739ad513b3f
+Merge: d103aa9 6d745bc
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Fri Oct 2 08:33:13 2020 -0300
+
+    Merge branch 'master' of https://github.com/wfelix/ConectoVarejo
+
+commit d103aa945a1b51b5995ca5aec5c40d08a4ce1462
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Fri Oct 2 08:33:03 2020 -0300
+
+    api: envio de SMS via AWS
+
+commit 8e72739c575086b5ed73cfba55eba012d1a4e3e9
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Fri Oct 2 08:31:39 2020 -0300
+
+    web: Atualizacao do endereco, selecao do endereco e pagamento no carrinho, envio do carrinho
+
+commit 6d745bc524eb3d31e95d325c5006a46e0d10e098
+Merge: 94cf91c 61c96e8
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Thu Oct 1 17:45:27 2020 -0300
+
+    Merge branch 'master' of https://github.com/wfelix/ConectoVarejo
+
+commit 94cf91c467af74cc3f49c5768a4b8a03712c92e2
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Thu Oct 1 17:44:57 2020 -0300
+
+    Acertos no carrinho e ordem
+
+commit 61c96e8545cc655d0a06ae94090f4213308196f8
+Merge: 49abdb8 9cda06d
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Thu Oct 1 14:53:46 2020 -0300
+
+    Merge branch 'master' of https://github.com/wfelix/ConectoVarejo
+
+commit 49abdb8ae72ebdb7c7ccaf60154c8c371d890664
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Thu Oct 1 14:53:37 2020 -0300
+
+    web: tratamentos no carrinho
+
+commit 9cda06db9165d42c65104bf63e0bccb43e8c4970
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Thu Oct 1 14:52:56 2020 -0300
+
+    Ajustes no carrinho
+
+commit 08e31359b5648c0e4a60034bef5f9c88fe0394dc
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Thu Oct 1 11:59:41 2020 -0300
+
+    web: Link para o categoria e categoria selecionada no filtro
+
+commit e4e9ae33c2f2d81e4619e59760c0b37d6c5706cc
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Thu Oct 1 09:56:36 2020 -0300
+
+    web: Detalhe do produto
+
+commit 5d5d2cd4f6d3f0ec30400f30096e29fc5381ca4e
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Thu Oct 1 08:19:56 2020 -0300
+
+    web: Detalhe do produto padrao
+
+commit a3182ebb4f20b362f450b8a62cabebf56be0029e
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Thu Oct 1 08:07:47 2020 -0300
+
+    web: Implementado pesquisa por produto e adicao no carrinho
+
+commit cf893ec64246aa8939649799a1c093757a58eeb7
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Wed Sep 30 22:43:45 2020 -0300
+
+    web: Pre layout para buscar de produtos
+
+commit e308d5f8d82ef5abc7a3bb5e00d2d8c135d61726
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Wed Sep 30 20:32:21 2020 -0300
+
+    web: Dados do usuario e signout
+
+commit 9b18f89c09c90a879f82d45f0f5af1864c6c8a69
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Wed Sep 30 19:31:41 2020 -0300
+
+    web: Tratamento para enviar e atulizar quantidade do produto no carrinho
+
+commit 85ae21ff9c17ba9c4beb795010711bbad30f0ed8
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Wed Sep 30 12:53:44 2020 -0300
+
+    web: Tratamento e envio de endereco para o carrinho
+
+commit b967b99bb973a98cf19aa111d7021041ee82b9f7
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Wed Sep 30 12:53:02 2020 -0300
+
+    web: Adicionando endereco do cliente no login
+
+commit 4876f0c53af9c5fbe6cb6c5f2602122ea3eb58b0
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Wed Sep 30 11:44:11 2020 -0300
+
+    web: Listagem de enderecos, e fake na autenticacao com dados de endereco
+
+commit c531b7105a052533dce15bd96c546063bd9319f2
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Wed Sep 30 09:16:39 2020 -0300
+
+    web: Tratamentos para enviar o carrinho
+
+commit cd4d2201d568fc15132103e4d81bcdad82c39860
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Tue Sep 29 21:48:05 2020 -0300
+
+    web: Finalizando o carrinho
+
+commit 689820da70624817f6b38211c3f738ac41e67909
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Tue Sep 29 20:34:16 2020 -0300
+
+    web: Padronizacao do componente de produto
+
+commit 8cef80d74809b8b59748b71e401d149efd9cce7e
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Tue Sep 29 19:59:25 2020 -0300
+
+    web: Atualizando carrinho com novos produtos
+
+commit f3b431dacf4a1912741ba5d78a8ba4e146dbce26
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Tue Sep 29 14:47:31 2020 -0300
+
+    web: Criando carrinho e enviado para API
+
+commit 589b0780766374cfc088c0b705b8595ced1ec5e8
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Tue Sep 29 12:52:53 2020 -0300
+
+    web: Criando carrinho
+
+commit b6601d8ac7246fb2b13062924db3273631400622
+Merge: 0211d29 5f525e2
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Tue Sep 29 09:36:59 2020 -0300
+
+    Merge branch 'master' of https://github.com/wfelix/ConectoVarejo
+
+commit 0211d2974dae236c29ee06b4c280ac94ca118432
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Tue Sep 29 09:36:54 2020 -0300
+
+    web: Ajuste para remove os produtos do carrinho
+
+commit 5f525e2818ff27de1646638bb1612639a8a0c21e
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Mon Sep 28 19:55:25 2020 -0300
+
+    Adicao do servico de inclusao de precos... continua...
+
+commit 1adc9fd6ea01e7b525cd37f13cea698a5a177dc4
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Mon Sep 28 16:17:59 2020 -0300
+
+    Adição da checagem de subtotal do venditor
+
+commit 4a4dc3d882f3a8f634b3d111aa33df6de90a633c
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Fri Sep 25 23:09:37 2020 -0300
+
+    web: Detalhe do produto
+
+commit 1cdda6d8423a0588491dddb6fc811defb61f92f2
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Fri Sep 25 22:12:48 2020 -0300
+
+    web: Adicionando carrinho no redux
+
+commit fc1591000806aa8ded63b9c1c5a94fcfec600204
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Fri Sep 25 18:22:25 2020 -0300
+
+    web: filtro home
+
+commit ab9e80add6c36cd32187cd0c6631a8fd2c48295a
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Thu Sep 24 21:33:13 2020 -0300
+
+    web: Filtro por categoria
+
+commit a65fd6d57617635b325b5ab678fb899be3b29c87
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Thu Sep 24 18:08:35 2020 -0300
+
+    Servicos de listagem de pedidos
+
+commit 2a6bd275e090dfcd56257340dfa88ec7f143654f
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Thu Sep 24 08:49:31 2020 -0300
+
+    web: Personalizacao dropdown
+
+commit ca3075cb67032b277973e9a14935c36eca5074a2
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Thu Sep 24 00:04:52 2020 -0300
+
+    web: Filtro de produtos por categoria
+
+commit c3863e7bb28b180f8f73b94fdbbd815c8070b1d9
+Merge: cc30af4 369ddfb
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Wed Sep 23 22:52:15 2020 -0300
+
+    Merge branch 'master' of https://github.com/wfelix/ConectoVarejo
+
+commit cc30af41dad3d688a1fd80386d59ce526849a8de
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Wed Sep 23 22:52:08 2020 -0300
+
+    web: Paginacao entre departamentos
+
+commit 369ddfb9c3a82c2cd5c7d9399b28b0d206ce56f9
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Wed Sep 23 18:45:41 2020 -0300
+
+    Inicio do servidor de saveOrder
+
+commit a7579bc6eabfc201e6111d652ef5e489ebb8924f
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Wed Sep 23 17:42:20 2020 -0300
+
+    Adicao do metodo de pagamento no carrinho e correcao no laco de produtos no carrinho
+
+commit 5564803446d9b6f8c686574f46bf1a85f9ce4445
+Merge: beff984 1866ddc
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Wed Sep 23 14:04:54 2020 -0300
+
+    Merge branch 'master' of https://github.com/wfelix/ConectoVarejo
+
+commit beff984f69d420e6dd3229ac51ab88728b19c849
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Wed Sep 23 14:04:38 2020 -0300
+
+    web: login e logout
+
+commit 1866ddc2924b8c3ee3b8562afdff39167831d77b
+Merge: 8f25e6f b17825c
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Wed Sep 23 12:32:16 2020 -0300
+
+    Merge branch 'master' of https://github.com/wfelix/ConectoVarejo
+
+commit 8f25e6f3b24844a528b81a8e7a2f57f5700039b7
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Wed Sep 23 12:31:20 2020 -0300
+
+    Ajustes nos servicos de carrinho, comentando itens do menu
+
+commit b17825c6d9c41e2fc2db476cdf75245e2c80b317
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Wed Sep 23 10:26:16 2020 -0300
+
+    web: Menu de categoria para mobile
+
+commit 7e1caac27f2cfcc3e037bc63be32ab2f1628aac0
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Wed Sep 23 09:31:24 2020 -0300
+
+    Correcao do servico de busca de produto caso nao tenha departamento marcado
+
+commit c555a0ff56ac38003c68eb51182db52d0d961ec5
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Tue Sep 22 21:52:27 2020 -0300
+
+    web: Menu para mobile
+
+commit 2223b1c5e0ca50ad2b0b543ac7f5da86beae70dd
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Tue Sep 22 21:16:45 2020 -0300
+
+    web: Redux parametro, configuracao do menu mobile
+
+commit 765fafb9339bf738889ad12c231e7b817276f188
+Merge: fac1bf8 858004b
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Tue Sep 22 20:17:39 2020 -0300
+
+    Merge branch 'master' of https://github.com/wfelix/ConectoVarejo
+
+commit fac1bf8fb95fdc9e6e9f75102aa60baae1f4bc5e
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Tue Sep 22 20:17:30 2020 -0300
+
+    web: Redux checkout, lista adiciona, remove quantidade produto
+
+commit 858004b6be39fe51283e839dfbf42fe8a42b4fc0
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Tue Sep 22 19:46:13 2020 -0300
+
+    Adequacao do no de produtos no carrinho, servicos de busca por CEP e etc
+
+commit c515286a58419506a7144d116fd9f197f9d5809a
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Mon Sep 21 19:06:13 2020 -0300
+
+    Adicao de alguns servicos
+
+commit 409a99687ce14ae93749d052f13f0ce00505941d
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Mon Sep 21 18:59:05 2020 -0300
+
+    web: Acoes do produto
+
+commit 8fecf6456330bcb86b7e8c02d8931054adc7425d
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Mon Sep 21 18:26:41 2020 -0300
+
+    web: Conf Redux Persist
+
+commit 42aa0552bf23eeaed9c5c62a74958546ac1b384a
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Fri Sep 18 13:10:09 2020 -0300
+
+    web: Resultado do produtos por filtro
+
+commit 256719c0eefc798c4965009fc976daf54e721565
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Fri Sep 18 12:45:39 2020 -0300
+
+    web: Implementando fFiltro de produtos
+
+commit 660e960e95d2ba9432f7fd78ca2ac47e0771d2e6
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Thu Sep 17 23:59:11 2020 -0300
+
+    web: Redux produtos, filtros no produtos, Add Redux Dev e conf
+
+commit 2afd8b386dd0210ad427e9cc2ae5110d7663c29f
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Wed Sep 16 23:16:07 2020 -0300
+
+    web: dev redux
+
+commit d47366b4301f76644d84a7a356e553a5f531b27c
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Wed Sep 16 18:47:37 2020 -0300
+
+    web: remove warning
+
+commit a20b2897d773b5da48df87ba7ee051373209c7c0
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Wed Sep 16 18:32:29 2020 -0300
+
+    web: pre redux
+
+commit 4618b0382151fc05c88522489c81df7543f7425a
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Mon Sep 14 20:02:31 2020 -0300
+
+    Inicio de trabalho nos servicoes de carrinho
+
+commit d9907624139d1461e41f8c2eabc5abde58c567c2
+Merge: 28f5e39 7ef2a60
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Mon Sep 14 16:11:34 2020 -0300
+
+    Merge branch 'master' of https://github.com/wfelix/ConectoVarejo
+
+commit 28f5e390da8438973c34b08862f3a1fd7eff845f
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Mon Sep 14 16:11:24 2020 -0300
+
+    web: Limite por preço
+
+commit 7ef2a608986dfa4140712fbaf97d29dc2a51b121
+Merge: 057dfdb dffd49e
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Fri Sep 11 19:52:24 2020 -0300
+
+    Merge branch 'master' of https://github.com/wfelix/ConectoVarejo
+
+commit 057dfdb1c5e9a5ea91e280ada700fd629f024217
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Fri Sep 11 19:51:47 2020 -0300
+
+    Serviços de endereço do cliente
+
+commit dffd49e90957f288be49a174445e4ec0328640a3
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Fri Sep 11 15:49:39 2020 -0300
+
+    web: Filtros: paginação, ordenação e min a max valor
+
+commit ae365aa8427997a60d455b3017dc718487f1d389
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Fri Sep 11 01:55:27 2020 -0300
+
+    web: Adicinando paginação por filtro
+
+commit cde03da106a2582157fa051959b8495eacb7a6b8
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Thu Sep 10 23:57:38 2020 -0300
+
+    web: Padronização do produto e destaque
+
+commit 4c805120c539f32b8c19cad3fd08d297a6ce8fe2
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Thu Sep 10 23:34:08 2020 -0300
+
+    web: consumindo API de produto
+
+commit e886475ca50a44cb26a32f205d5ecc53882a1286
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Thu Sep 10 23:30:11 2020 -0300
+
+    web: remove omni_web_build
+
+commit b0adcf89da54a717ca243e8b86476440a120b3bb
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Wed Sep 9 22:30:23 2020 -0300
+
+    Acertos na documentacao da API
+
+commit 8f83ee0637fe795f6ebd7e164094a82a3a9fcfd2
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Wed Sep 9 19:24:39 2020 -0300
+
+    Adicao dos servicoes de lista de departamentos e produtos
+
+commit 8ca7cd874cacbf4127b905514e36d3a0f2055e8e
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Mon Sep 7 13:47:05 2020 -0300
+
+    web: padronização dos card
+
+commit 2aa8d6b3ad56fe2d4934070b227cf4d1b56a459c
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Sun Sep 6 18:48:31 2020 -0300
+
+    web: Minha Conta, Checkout, Carrinho e componentes
+
+commit d2a632cd904d1a9182c9d5595387086b865e005a
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Sun Sep 6 00:35:32 2020 -0300
+
+    web: Tela do meu pedido
+
+commit 502e0047010395af1001e2ff488b911536e39007
+Merge: e7e2f29 2eca4e6
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Sat Sep 5 21:24:01 2020 -0300
+
+    Merge branch 'master' of https://github.com/wfelix/ConectoVarejo
+
+commit e7e2f29df5f5dea17735d2700ff850b4ed146db6
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Sat Sep 5 21:23:40 2020 -0300
+
+    web: Tela de checkout
+
+commit 2eca4e60680d2f429dba00fec36fb1ed6bcc2c46
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Fri Sep 4 20:09:20 2020 -0300
+
+    Alguns ajustes nos serviços de load e termino do load de produtos
+
+commit fefa4d19f917c9c73b5ddc78d87f96b03042feb7
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Wed Sep 2 20:01:41 2020 -0300
+
+    Criacao do load de unidades, campo categoria e unidade no produto
+
+commit 7e53f4409026a06b0d094258ca3c2c5e233d24ff
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Tue Sep 1 08:36:33 2020 -0300
+
+    Adicionando category_id em products
+
+commit d57f598016ee5a6d75bd5c7c0ec67f69961fea3a
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Mon Aug 31 23:24:54 2020 -0300
+
+    web: responsividade
+
+commit b041e43050e6959789617ca9608d563498f3550f
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Sat Aug 29 16:50:44 2020 -0300
+
+    Andamentos na APILoad com impostos e produto por loja
+
+commit 508fa70d7c40ea308c2bf8463a2821cf65f06a61
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Thu Aug 27 18:12:02 2020 -0300
+
+    Adicao do load de lojas, criacao da tela de lojas com modulo, ajustes no load de impostos
+
+commit 2136fec00022f0e2813b0750a87877959cdf4de9
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Wed Aug 26 21:57:26 2020 -0300
+
+    Adicao do cadastro de imposto e serviço para cadastrá-lo via api-load
+
+commit 8ccd7857e1a9151ceb129032bc97ef4f2fee987f
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Wed Aug 26 08:50:25 2020 -0300
+
+    Adicao de codigo do departamento na tela de categorias
+
+commit 7929125bba9bfb9e1ad6c69862c44fa51d128bf1
+Merge: 70cdcc5 24f4b88
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Tue Aug 25 19:11:10 2020 -0300
+
+    Merge branch 'master' of https://github.com/wfelix/ConectoVarejo
+
+commit 70cdcc53eb0aedab6c70c9a6d511acef4c98885e
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Tue Aug 25 19:10:36 2020 -0300
+
+    Melhorias no load de categorias
+
+commit 24f4b88f5f8b970d46761a76e072ea391a9227d9
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Tue Aug 25 16:03:10 2020 -0300
+
+    web: color global
+
+commit 34d0ddf84ea745eb05470e416ad1ee3244fa34ac
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Tue Aug 25 15:54:06 2020 -0300
+
+    web: tela de detalhe do produto
+
+commit d9c4e49d3de5c62dec47535207ce88f7042a94dc
+Merge: 5bbc0be 4bb14a2
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Tue Aug 25 09:04:17 2020 -0300
+
+    Merge branch 'master' of https://github.com/wfelix/ConectoVarejo
+
+commit 5bbc0be07f43443958ea9cc48e36903bb02af375
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Tue Aug 25 09:03:55 2020 -0300
+
+    web: padronização da color e skeleton
+
+commit 4bb14a25f9ebd21ad9b6fca55641b7af8b99ac5d
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Mon Aug 24 20:49:25 2020 -0300
+
+    Adicao do servico para carregamento de departamento Emporium > Omni
+
+commit 88b55af4a2028326b4c5cd2615f791e26b8e6f47
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Mon Aug 24 16:51:27 2020 -0300
+
+    Web
+
+commit e4e8a0ccf8304270f6a983342af95b0c130ad590
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Mon Aug 24 11:32:56 2020 -0300
+
+    s..
+
+commit fbe9710a22cda13382eab1b3baf04115171f3b0d
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Mon Aug 24 09:28:22 2020 -0300
+
+    Adicao do doc public no commit
+
+commit 0acb44268d8a5805340b16b6fdfa37d519f7d471
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Mon Aug 24 09:14:27 2020 -0300
+
+    Alteracoes
+
+commit ad6434b8093ebe0994834bbf8155ce4bb6ebd2bf
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Mon Aug 24 09:11:14 2020 -0300
+
+    Alteracoes pontuais
+
+commit b13856088fe981e12ccdfc0b23f17c0afb5d83a6
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Sat Aug 22 19:01:26 2020 -0300
+
+    Ajuste de layout da api
+
+commit 06ec4f96562145314bafc7858bd4c09afd2af982
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Sat Aug 22 16:15:13 2020 -0300
+
+    Correcao do gitignore do painel
+
+commit e64792eb712575ae783193a5caf492da86819bac
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Sat Aug 22 11:55:59 2020 -0300
+
+    Adição do tema omni, apiload e melhorias na documentacao
+
+commit 70a6f04e90b552f444d9540b6039fa629ada0345
+Author: JuniorDrumsRmv <juniordrumsrmv@gmail.com>
+Date:   Thu Aug 20 17:02:52 2020 -0300
+
+    Commitando o tema omni
+
+commit 1818cac8ef5ba2ddb21be0055513b9d6492c61ae
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Thu Aug 20 16:05:39 2020 -0300
+
+    Response padrao com status e message
+
+commit 12dcfa93e9576cb7f6274b2132e30b478801eecc
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Thu Aug 20 13:24:50 2020 -0300
+
+    Padronização docker-compose e env
+
+commit 5538853d8533ee629b3729bdba1269a200e224d9
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Wed Aug 19 22:22:56 2020 -0300
+
+    New docker-compose file
+
+commit 417924eb8584692245a1a1deeb8f07cc59c255f3
+Author: Wilson Felix <wilson@wilsonfelix.com.br>
+Date:   Mon Aug 17 17:40:46 2020 -0300
+
+    temp

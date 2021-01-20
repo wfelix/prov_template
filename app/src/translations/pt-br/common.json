@@ -1,0 +1,35 @@
+{
+  "main": {
+    "navbar": {
+      "contact": "0800 123 456 7890",
+      "contact_mail": "cliente@superconecto.com.br",
+      "store_locator": "Localizador de Lojas",
+      "blog": "Blog",
+      "warranty": "Garantia",
+      "payment": "Pagamento",
+      "delivery": "Delivery",
+      "enter_and_register": "Entre ou Cadastre-se",
+      "edit-user": "Editar Conta",
+      "signout-user": "Sair"
+    },
+    "menu": {
+      "enter_and_register": "Entre ou Cadastre-se",
+      "my_requests": "Meus pedidos",
+      "category": "Categoria"
+    },
+    "search": {
+      "input": "O que você procura hoje?",
+      "text_store_open": "Lojas físicas abertas todos os dias até as 22:00",
+      "cart_amout": "Meu Carrinho",
+      "my_account": "Minha conta",
+      "my_bookmarks": "Favoritos"
+    },
+    "product_featured": {
+      "title": "Produtos em Destaque"
+    },
+    "product_featured_day": {
+      "title": "Seleção de Cervejas (Produtos em Destaque)"
+    }
+
+  }
+}
